@@ -1,0 +1,5 @@
+com\supermarket\mapper\TbSpecificationMapper.class
+com\supermarket\mapper\TbAddressMapper.class
+com\supermarket\mapper\TbBrandMapper.class
+com\supermarket\mapper\TbSpecificationOptionMapper.class
+com\supermarket\mapper\TbTypeTemplateMapper.class

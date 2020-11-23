@@ -1,0 +1,27 @@
+{
+  "name" : "TbContentCategory",
+  "originTableName" : "tb_content_category",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "id",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "Long",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "name",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.supermarket.pojo",
+  "savePath" : "./supermarket_pojo/src/main/java/com/supermarket/pojo",
+  "saveModelName" : "supermarket_pojo"
+}

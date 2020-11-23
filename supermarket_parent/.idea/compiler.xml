@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="supermarket_sellergoods_interface" />
+        <module name="supermarket_dao" />
+        <module name="supermarket_manager_web" />
+        <module name="supermarket_commons" />
+        <module name="supermarket_shop_web" />
+        <module name="supermarket_sellergoods_service" />
+        <module name="supermarket_pojo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
